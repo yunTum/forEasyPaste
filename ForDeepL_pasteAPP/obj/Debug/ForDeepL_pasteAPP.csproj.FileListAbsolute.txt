@@ -1,0 +1,10 @@
+C:\Users\musuk\source\repos\ForDeepL_pasteAPP\ForDeepL_pasteAPP\bin\Debug\ForDeepL_pasteAPP.exe.config
+C:\Users\musuk\source\repos\ForDeepL_pasteAPP\ForDeepL_pasteAPP\bin\Debug\ForDeepL_pasteAPP.exe
+C:\Users\musuk\source\repos\ForDeepL_pasteAPP\ForDeepL_pasteAPP\bin\Debug\ForDeepL_pasteAPP.pdb
+C:\Users\musuk\source\repos\ForDeepL_pasteAPP\ForDeepL_pasteAPP\obj\Debug\ForDeepL_pasteAPP.csprojAssemblyReference.cache
+C:\Users\musuk\source\repos\ForDeepL_pasteAPP\ForDeepL_pasteAPP\obj\Debug\ForDeepL_pasteAPP.Form1.resources
+C:\Users\musuk\source\repos\ForDeepL_pasteAPP\ForDeepL_pasteAPP\obj\Debug\ForDeepL_pasteAPP.Properties.Resources.resources
+C:\Users\musuk\source\repos\ForDeepL_pasteAPP\ForDeepL_pasteAPP\obj\Debug\ForDeepL_pasteAPP.csproj.GenerateResource.cache
+C:\Users\musuk\source\repos\ForDeepL_pasteAPP\ForDeepL_pasteAPP\obj\Debug\ForDeepL_pasteAPP.csproj.CoreCompileInputs.cache
+C:\Users\musuk\source\repos\ForDeepL_pasteAPP\ForDeepL_pasteAPP\obj\Debug\ForDeepL_pasteAPP.exe
+C:\Users\musuk\source\repos\ForDeepL_pasteAPP\ForDeepL_pasteAPP\obj\Debug\ForDeepL_pasteAPP.pdb
